@@ -1,0 +1,54 @@
+{
+    "items":[
+        {
+            "id":"",
+            "thumb":"./assets/images/스즈메의 문단속.jpg",
+            "title":"스즈메의 문단속",
+            "reseverate":34.1,
+            "grade":5,
+            "dday":8,
+            "age":12,
+            "sort":"office"
+        },
+        {
+            "id":"",
+            "thumb":"https://img.megabox.co.kr/SharedImg/2022/12/19/whzCk46ejtIoWU1eavvF9lJ8rC2Wbvf7_600.jpg",
+            "title":"스즈메의 문단속",
+            "reseverate":34.1,
+            "grade":5,
+            "dday":0,
+            "age":18,
+            "sort":"tobe ,opt"
+        },
+        {
+            "id":"",
+            "thumb":"https://img.megabox.co.kr/SharedImg/2023/03/22/nlJqf48ZMPHxAoo6KMbEZqAlDwi3mD3H_600.jpg",
+            "title":"스즈메의 문단속",
+            "reseverate":34.1,
+            "grade":5,
+            "dday":0,
+            "age":18,
+            "sort":"office ,tobe ,dolby ,concert ,opt"
+        },
+        {
+            "id":"",
+            "thumb":"https://mlink-cdn.netinsight.co.kr/2023/03/14/075348592f1dcf66b7c4ceb8a6596122.jpg",
+            "title":"스즈메의 문단속",
+            "reseverate":34.1,
+            "grade":5,
+            "dday":0,
+            "age":18,
+            "sort":"office ,concert ,opt"
+        },
+        {
+            "id":"",
+            "thumb":"https://img.megabox.co.kr/SharedImg/2023/03/17/AH6TGaPvkUS7iHkqylXFDhfu7W29tXBg_600.jpg",
+            "title":"스즈메의 문단속",
+            "reseverate":34.1,
+            "grade":5,
+            "dday":0,
+            "age":18,
+            "sort":"opt"
+        }
+    ]
+}

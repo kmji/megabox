@@ -1,0 +1,74 @@
+.blind{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    margin: -1px;
+}
+.hidden{
+    overflow: hidden;
+}
+header .barcode,
+header .logo,
+header .alarm,
+header .menu{
+    background-image: url(../images/header_sprites.png);
+    background-size: 130px 105px;
+    background-repeat: no-repeat;
+}
+main{
+    background-image: url(../images/main-bg.png);
+    background-size: 100% 740px;
+    background-repeat: no-repeat;
+}
+
+
+.btn-menu .ico-item.on i,
+.btn-menu .ico-item i{
+    background-image: url(../images/btn_menu_sprites.png);
+    background-size: 160px 120px;
+    background-repeat: no-repeat;
+}
+
+.sc-boxoffice .movieSwiper .swiper-slide .age{
+    background-image: url(../images/age_sprites.png);
+    background-size: 60px 60px;
+    background-repeat: no-repeat;
+}
+.sc-boxoffice .movieSwiper .swiper-slide .desc em.star::after{
+    background-image: url(../images/star.png);
+    background-size: 30px 28px;
+    background-repeat: no-repeat center;
+}
+.sc-post .title-wrap .more-right,
+.sc-event .title-wrap .more-right,
+.sc-feed .title-wrap .more-right,
+.sc-boxoffice .more .ico-more{
+    background-image: url(../images/more_sprites.png);
+    background-size: 56px 34px;
+    background-repeat: no-repeat center;
+}
+
+.sc-feed .feed-wrap .like{
+    background-image: url(../images/like.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.sc-link .link-item i{
+    background-image: url(../images/link_sprites.png);
+    background-size: 88px 88px;
+    background-repeat: no-repeat;
+}
+.sc-post .postSwiper .swiper-slide .user-click i{
+    background-image: url(../images/main-sprit.png);
+    background-size: 334px 192px;
+    background-repeat: no-repeat;
+}
+.menu-page .sc-quick .contain .notice .ico-notice,
+.menu-page .sc-quick .title a::after,
+.menu-page .head-wrapper .wrap .btn i{
+    background-image: url(../images/menu-sprites.png);
+    background-size: 80px 72px;
+    background-repeat: no-repeat;
+}

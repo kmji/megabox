@@ -1,0 +1,84 @@
+{
+    "items":[
+        {
+            "id":"",
+            "thumb":"./assets/images/event/popcorn.jpg",
+            "title":"포대팝콘 론칭",
+            "day":"2023.03.24~2023.04.30",
+            "sort":"pick"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/basketball.jpg",
+            "title":"더 퍼스트 슬램덩크 한정 굿즈 사전 예약",
+            "day":"2023.03.22~2023.04.02",
+            "sort":"pick"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/marchpoint.jpg",
+            "title":"3월 포인트위크",
+            "day":"2023.03.20~2023.03.31",
+            "sort":"pick"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/minicarry.jpg",
+            "title":"꽃카 미니 캐리어 콤보",
+            "day":"2023.03.14~2023.03.31",
+            "sort":"pick"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/mindrun.jpg",
+            "title":"심리학 강연 시네 마인드 런",
+            "day":"2023.04.20~2023.07.06",
+            "sort":"movie"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/mindrun2.jpg",
+            "title":"시네 마인드 런 1st. 불안의 심리",
+            "day":"2023.04.20~2023.04.20",
+            "sort":"movie"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/bank.jpg",
+            "title":"광주은행 메가박스카드 이용 시 영화관람권 증정",
+            "day":"2023.03.15~2023.08.31",
+            "sort":"discount"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/rullet.jpg",
+            "title":"룰렛을 돌려라!",
+            "day":"2023.03.10~2023.06.30",
+            "sort":"discount"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/kakaopay.jpg",
+            "title":"카카오페이로 푸짐한 혜택",
+            "day":"2023.03.6~2023.03.31",
+            "sort":"discount"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/riceboy.jpg",
+            "title":"라이스보이 슬립스",
+            "day":"2023.03.24~2023.04.02",
+            "sort":"greet"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/event/greeting.jpg",
+            "title":"제비 필름 소사이어티 회원 시사 이벤트",
+            "day":"2023.03.14~2023.04.02",
+            "sort":"greet"
+        }
+        
+
+        
+    ]
+}

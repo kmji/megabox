@@ -1,0 +1,50 @@
+{
+    "items":[
+        {
+            "id":"",
+            "thumb":"./assets/images/post/1.jpg",
+            "id":"xowl12** ",
+            "title":"스즈메의 문단속",
+            "content":"또봐도 재밌다",
+            "like":"2",
+            "coment":"1"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/post/2.jpg",
+            "id":"kchuba** ",
+            "title":"모나리자와 블러드 문",
+            "content":"영화는 좀 불친절고 감독의 옹고집이 느껴지지만 전종서 하나만으로도 볼 가치는 충분. ",
+            "like":"3",
+            "coment":"3"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/post/3.jpg",
+            "id":"kchuba** ",
+            "title":"6번 칸",
+            "content":"뜻밖의 장소에 만나게 된 두 남녀. 안어울릴것 같아보이는 두 남녀의 묘힌 동행. 담백한맛",
+            "like":"1",
+            "coment":"5"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/post/4.jpg",
+            "id":"wootanmac12** ",
+            "title":"스즈메의 문단속",
+            "content":"ㅅㅈㅅㅈㅅㄷㅅㄷㅅㄷㅅㄷㅅㄷㅅㄷㅅ",
+            "like":"0",
+            "coment":"0"
+        },
+        {
+            "id":"",
+            "thumb":"./assets/images/post/5.jpg",
+            "id":"jsjh** ",
+            "title":"허니와 클로버",
+            "content":"아오이 유우가 아니라 아오이 우유 신선함초과.에너지가 스크린을 뚫고 나오는 비타민영화",
+            "like":"4",
+            "coment":"1"
+        }
+        
+    ]
+}
