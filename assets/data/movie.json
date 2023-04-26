@@ -8,7 +8,7 @@
             "grade":5,
             "dday":8,
             "age":12,
-            "sort":"office"
+            "sort":"office ,monopoly"
         },
         {
             "id":"",
@@ -48,7 +48,7 @@
             "grade":5,
             "dday":0,
             "age":18,
-            "sort":"opt"
+            "sort":"opt ,monopoly"
         }
     ]
 }
