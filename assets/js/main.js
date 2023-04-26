@@ -17,7 +17,7 @@ $(function(){
 
 
     function movieList(sortData){
-        fetch('../assets/data/movie.json')
+        fetch('assets/data/movie.json')
         .then(res=>res.json())
         .then(json=>{
             allData=json.items;
@@ -82,7 +82,7 @@ $(function(){
 
 
     function eventList(sortData){
-        fetch('../assets/data/event.json')
+        fetch('assets/data/event.json')
         .then(res=>res.json())
         .then(json=>{
             allData=json.items;
