@@ -3,7 +3,7 @@
         {
             "id":"",
             "thumb":"./assets/images/post/1.jpg",
-            "user_id":"xowl12** ",
+            "userid":"xowl12** ",
             "title":"스즈메의 문단속",
             "content":"또봐도 재밌다",
             "like":"2",
@@ -12,7 +12,7 @@
         {
             "id":"",
             "thumb":"./assets/images/post/2.jpg",
-            "user_id":"kchuba** ",
+            "userid":"kchuba** ",
             "title":"모나리자와 블러드 문",
             "content":"영화는 좀 불친절고 감독의 옹고집이 느껴지지만 전종서 하나만으로도 볼 가치는 충분. ",
             "like":"3",
@@ -21,7 +21,7 @@
         {
             "id":"",
             "thumb":"./assets/images/post/3.jpg",
-            "user_id":"kchuba** ",
+            "userid":"kchuba** ",
             "title":"6번 칸",
             "content":"뜻밖의 장소에 만나게 된 두 남녀. 안어울릴것 같아보이는 두 남녀의 묘힌 동행. 담백한맛",
             "like":"1",
@@ -30,7 +30,7 @@
         {
             "id":"",
             "thumb":"./assets/images/post/4.jpg",
-            "user_id":"wootanmac12** ",
+            "userid":"wootanmac12** ",
             "title":"스즈메의 문단속",
             "content":"스즈메의 문단속 스즈메의 문단속",
             "like":"0",
@@ -39,7 +39,7 @@
         {
             "id":"",
             "thumb":"./assets/images/post/5.jpg",
-            "user_id":"jsjh** ",
+            "userid":"jsjh** ",
             "title":"허니와 클로버",
             "content":"아오이 유우가 아니라 아오이 우유 신선함초과.에너지가 스크린을 뚫고 나오는 비타민영화",
             "like":"4",

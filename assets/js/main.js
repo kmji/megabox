@@ -164,7 +164,7 @@ $(function(){
                                 <img src="${element.thumb}" alt="${element.title}">
                             </div>
                             <div class="txt">
-                                <span class="user-id">${element.user_id}</span>
+                                <span class="user-id">${element.userid}</span>
                                 <em class="title">${element.title}</em>
                                 <p class="content">
                                     ${element.content}
