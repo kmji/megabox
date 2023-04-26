@@ -151,7 +151,7 @@ $(function(){
 
 
     function postList(){
-        fetch('../assets/data/post.json')
+        fetch('./assets/data/post.json')
         .then(res=>res.json())
         .then(json=>{
             allData=json.items;
