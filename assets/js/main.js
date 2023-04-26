@@ -17,7 +17,7 @@ $(function(){
 
 
     function movieList(sortData){
-        fetch('assets/data/movie.json')
+        fetch('./assets/data/movie.json')
         .then(res=>res.json())
         .then(json=>{
             allData=json.items;
@@ -82,7 +82,7 @@ $(function(){
 
 
     function eventList(sortData){
-        fetch('assets/data/event.json')
+        fetch('./assets/data/event.json')
         .then(res=>res.json())
         .then(json=>{
             allData=json.items;
@@ -164,7 +164,7 @@ $(function(){
                                 <img src="${element.thumb}" alt="${element.title}">
                             </div>
                             <div class="txt">
-                                <span class="user-id">${element.id}</span>
+                                <span class="user-id">${element.user_id}</span>
                                 <em class="title">${element.title}</em>
                                 <p class="content">
                                     ${element.content}
@@ -189,18 +189,6 @@ $(function(){
         spaceBetween: 12,
     });
 
-    // $('.eventSwiper .swiper-slide').click(function(e){
-    //     e.preventDefault();
-    //     target = $(this).find('a').data('target');
-    //     $(this).addClass('on').siblings().removeClass('on');
-    //     eventList(target);
-
-    // })
-
-
-
-
-    
 
     var banner2Swiper = new Swiper(".banner2Swiper", {
         slidesPerView:'1',

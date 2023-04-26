@@ -2,7 +2,7 @@
     "items":[
         {
             "id":"",
-            "thumb":"assets/images/szmeclose.jpg",
+            "thumb":"./assets/images/szmeclose.jpg",
             "title":"스즈메의 문단속",
             "reseverate":34.1,
             "grade":5,
@@ -12,7 +12,7 @@
         },
         {
             "id":"",
-            "thumb":"assets/images/slamduck.jpg",
+            "thumb":"./assets/images/slamduck.jpg",
             "title":"슬램덩크",
             "reseverate":34.1,
             "grade":4,
@@ -22,7 +22,7 @@
         },
         {
             "id":"",
-            "thumb":"assets/images/woongnamee.jpg",
+            "thumb":"./assets/images/woongnamee.jpg",
             "title":"웅남이",
             "reseverate":34.1,
             "grade":5,
@@ -32,7 +32,7 @@
         },
         {
             "id":"",
-            "thumb":"assets/images/eighthsense.jpg",
+            "thumb":"./assets/images/eighthsense.jpg",
             "title":"여덟번째 감각",
             "reseverate":32.1,
             "grade":3,
@@ -42,7 +42,7 @@
         },
         {
             "id":"",
-            "thumb":"assets/images/soulmate.jpg",
+            "thumb":"./assets/images/soulmate.jpg",
             "title":"소울메이트",
             "reseverate":34.1,
             "grade":5,
